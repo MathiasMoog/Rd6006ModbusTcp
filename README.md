@@ -7,6 +7,8 @@ protocoll for communication with the Riden Software, but I want to use the Modbu
 This bridge is quite simple, it passes all modbus commands from TCP (wifi) to RTU. Use only one TCP connection! 
 The WIFI SSID and Password must be provided in the source code.
 
+I use both interface Modbus RTU, but mostly Modbus TCP. See https://github.com/MathiasMoog/OctaveLab
+
 ##  !!! A T T E N T I O N !!!    
 
 - Flashing the wifi module will delete the original code. You might try to download the binary code
