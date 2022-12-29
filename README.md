@@ -66,6 +66,7 @@ The WIFI SSID and Password must be provided in the source code.
 ## ToDo
 
 - OTA Updates, https://circuitjournal.com/programming-esp8266-over-wifi
+- Web Page for configuration, open access point if not connected to wifi
 
 ## Works with the following hardware
 - ESP8266, the original RD6006 wifi module
